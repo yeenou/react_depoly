@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react_depoly/static/css/main.0ab20e98.css",
-    "main.js": "/react_depoly/static/js/main.3dbf4ae7.js",
+    "main.js": "/react_depoly/static/js/main.088a7bec.js",
     "index.html": "/react_depoly/index.html",
     "main.0ab20e98.css.map": "/react_depoly/static/css/main.0ab20e98.css.map",
-    "main.3dbf4ae7.js.map": "/react_depoly/static/js/main.3dbf4ae7.js.map"
+    "main.088a7bec.js.map": "/react_depoly/static/js/main.088a7bec.js.map"
   },
   "entrypoints": [
     "static/css/main.0ab20e98.css",
-    "static/js/main.3dbf4ae7.js"
+    "static/js/main.088a7bec.js"
   ]
 }
